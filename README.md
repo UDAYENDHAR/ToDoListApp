@@ -34,6 +34,6 @@ java ToDoListApp
 - Task editing and categorization
 - Due dates and reminders
 - Search and filter functionality
-```
+
 
 
